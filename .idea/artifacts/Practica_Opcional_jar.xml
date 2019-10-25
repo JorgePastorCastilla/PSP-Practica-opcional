@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Practica Opcional:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Practica_Opcional_jar</output-path>
+    <root id="archive" name="Practica Opcional.jar">
+      <element id="module-output" name="Practica Opcional" />
+    </root>
+  </artifact>
+</component>
